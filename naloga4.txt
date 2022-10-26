@@ -1,3 +1,15 @@
+commit eff23a0b59416137c748176e6049c2388cfdc7a5
+Author: GorGre14 <gorgre14@gmail.com>
+Date:   Wed Oct 26 23:11:05 2022 +0200
+
+    dodan about file
+
+commit d9aa5caa8d318d4e63c4d258dcf9d0be7f32dee3
+Author: GorGre14 <gorgre14@gmail.com>
+Date:   Wed Oct 26 23:07:50 2022 +0200
+
+    zadnje spremembe
+
 commit 5ef1a5808ba82e12708c6857c1ce410e05c6ae06
 Author: GorGre14 <gorgre14@gmail.com>
 Date:   Wed Oct 26 23:06:07 2022 +0200
