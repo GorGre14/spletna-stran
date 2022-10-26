@@ -1,0 +1,19 @@
+commit 5ef1a5808ba82e12708c6857c1ce410e05c6ae06
+Author: GorGre14 <gorgre14@gmail.com>
+Date:   Wed Oct 26 23:06:07 2022 +0200
+
+    Revert "dodana index.html file"
+    
+    This reverts commit f7013fe61d6b586a2aa6c85d229cf5baea82d51b.
+
+commit 771f138005c221c52007edbab592a1989690482d
+Author: GorGre14 <gorgre14@gmail.com>
+Date:   Wed Oct 26 23:04:22 2022 +0200
+
+    spremembe
+
+commit f7013fe61d6b586a2aa6c85d229cf5baea82d51b
+Author: GorGre14 <gorgre14@gmail.com>
+Date:   Wed Oct 26 23:01:33 2022 +0200
+
+    dodana index.html file
