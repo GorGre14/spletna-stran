@@ -1,0 +1,12 @@
+* 7672c5e (origin/hotfix, hotfix) dodana je bila sprememba
+| * 337f6d7 (origin/main, origin/HEAD, main) dodan je bila sprememba
+|/  
+| * dfb2d0a (HEAD -> featureA, featureEna) dodan aboutme file
+|/  
+* 27f0193 dodan index.html file
+* 7f1bb08 zadnje spremembe
+* eff23a0 dodan about file
+* d9aa5ca zadnje spremembe
+* 5ef1a58 Revert "dodana index.html file"
+* 771f138 spremembe
+* f7013fe dodana index.html file
